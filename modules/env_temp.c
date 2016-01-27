@@ -5,8 +5,8 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/env_temp.h"
-#include "modules/modules/env_temp.h"
+#include "../drivers/env_temp.h"
+#include "./env_temp.h"
 
 #include "registrar/registrar.h"
 #include "tasks/modules.h"
